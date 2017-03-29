@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.wasupandceacar.wasup.bilidanmufucker.MainActivity">
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ReadLine"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:hint="输入av号" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="读取弹幕"
+        android:id="@+id/ReadButton"
+        android:layout_below="@+id/ReadLine"
+        android:layout_alignParentEnd="true"
+        android:onClick="Read" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="未读取弹幕"
+        android:id="@+id/ReadText"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:layout_alignTop="@+id/ReadButton"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/ReadButton"
+        android:layout_marginStart="6dp"
+        android:textSize="15dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/SearchLine"
+        android:layout_below="@+id/ReadText"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="17dp"
+        android:layout_alignParentEnd="true"
+        android:hint="输入想要查找的弹幕关键词" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="搜索弹幕"
+        android:id="@+id/SearchButton"
+        android:layout_below="@+id/SearchLine"
+        android:layout_alignStart="@+id/ReadButton"
+        android:layout_alignParentEnd="true"
+        android:onClick="Search" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/DanmuView"
+        android:layout_below="@+id/SearchButton"
+        android:layout_alignEnd="@+id/SearchButton" />
+</RelativeLayout>
