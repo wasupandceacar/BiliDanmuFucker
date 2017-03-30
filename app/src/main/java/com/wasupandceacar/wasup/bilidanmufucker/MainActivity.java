@@ -38,8 +38,6 @@ public class MainActivity extends AppCompatActivity {
     //进度条
     ProgressDialog dialog;
 
-    List<HashMap<String, String>> viewList = new ArrayList<>();
-
     //弹幕
     String danmu="";
 
@@ -122,6 +120,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     class LoadingTask extends AsyncTask<Integer, Integer, String> {
+        //列表元素
+        List<HashMap<String, String>> viewList = new ArrayList<>();
         //后面尖括号内分别是参数（例子里是线程休息时间），进度(publishProgress用到)，返回值 类型
 
         @Override
@@ -138,6 +138,7 @@ public class MainActivity extends AppCompatActivity {
             //设置整个列表
             uidList.clear();
             nameList.clear();
+            viewList.clear();
         }
 
         @Override
