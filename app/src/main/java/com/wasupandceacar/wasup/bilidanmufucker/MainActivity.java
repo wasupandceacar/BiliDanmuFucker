@@ -12,11 +12,13 @@ import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.Toast;
+import android.graphics.drawable.AnimationDrawable;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -271,7 +273,7 @@ public class MainActivity extends AppCompatActivity {
         EditText SearchLine=(EditText)findViewById(R.id.SearchLine);
         //获取hash码
         keyword=SearchLine.getText().toString();
-        Pattern pattern = Pattern.compile(",0,(.*?),.*?"+keyword+".*?</d>");
+        Pattern pattern = Pattern.compile(",0,(.*?),.*?\">"+keyword+".*?</d>");
         Matcher matcher = pattern.matcher(danmu);
         result.clear();
         while (matcher.find()) {

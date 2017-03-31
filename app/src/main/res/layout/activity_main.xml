@@ -65,4 +65,5 @@
         android:id="@+id/DanmuView"
         android:layout_below="@+id/SearchButton"
         android:layout_alignEnd="@+id/SearchButton" />
+
 </RelativeLayout>
