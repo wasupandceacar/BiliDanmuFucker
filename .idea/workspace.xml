@@ -20,8 +20,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
     </list>
     <ignored path="BiliDanmuFucker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,32 +43,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="217" column="64" selection-start-line="217" selection-start-column="64" selection-end-line="217" selection-end-column="64" />
+            <state vertical-scroll-proportion="0.95482546">
+              <caret line="275" column="61" selection-start-line="275" selection-start-column="61" selection-end-line="275" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
                 <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
                 <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-                <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+                <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
                 <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -1673,8 +1661,8 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/my_listitem.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -1710,9 +1698,9 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2031,7 +2019,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28033474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28033474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2039,7 +2027,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16966581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16966581" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2074,13 +2062,43 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="217" column="64" selection-start-line="217" selection-start-column="64" selection-end-line="217" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2093,7 +2111,31 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="217" column="64" selection-start-line="217" selection-start-column="64" selection-end-line="217" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -2106,7 +2148,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2121,7 +2163,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2136,7 +2178,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2151,7 +2193,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2171,7 +2213,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2184,7 +2225,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2204,7 +2245,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2217,7 +2257,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2237,7 +2277,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2250,7 +2289,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2270,7 +2309,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2283,7 +2321,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2303,7 +2341,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2316,7 +2353,7 @@
             <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
             <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
             <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
             <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
           </folding>
         </state>
@@ -2329,7 +2366,6 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2377,21 +2413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="217" column="64" selection-start-line="217" selection-start-column="64" selection-end-line="217" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#Search#0;class#MainActivity#0" expanded="false" />
-            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="android-designer">
         <state />
@@ -2399,7 +2420,21 @@
       <provider editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wasupandceacar/wasup/bilidanmufucker/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95482546">
+          <caret line="275" column="61" selection-start-line="275" selection-start-column="61" selection-end-line="275" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#isNumeric#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#unHash#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#getName#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#Read#0;class#MainActivity#0" expanded="false" />
+            <element signature="method#onCreate#0;class#MainActivity#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
